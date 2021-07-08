@@ -8,7 +8,7 @@ When working on the [Simple Twitter project](https://github.com/ivyhungtw/simple
 
 #### 🔭 I’m currently working on:
 
-- [Ecommerce Website](https://github.com/ivyhungtw/ecommerce-site): Collaborate with another full-stack developer to build a e-commerce website for customers to shop latest trends in women's clothing.
+- [Ecommerce Website](https://github.com/ivyhungtw/ecommerce-site): Collaborate with another full-stack developer to build an e-commerce website for customers to shop latest trends in women's clothing.
 - [Full-stack Web Development Study Group](https://github.com/ivyhungtw/full-stack-web-dev-study-group): A group of four hold study groups to share knowledge and discuss questions related to full-stack web development every two weeks.
 
 #### 🌱 My tech stack:
