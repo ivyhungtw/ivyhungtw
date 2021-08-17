@@ -1,0 +1,27 @@
+.row {
+  max-width: $grid-width;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  &:not(:last-child) {
+    margin-bottom: $gutter-horizontal;
+  }
+
+  [class^='col-'] {
+    margin: $gutter-horizontal;
+  }
+
+  .col-1-of-2 {
+    flex: 1 1;
+  }
+
+  .col-1-of-3 {
+    flex: 0 0 30rem;
+  }
+
+  .col-1-of-4 {
+    flex: 0 0 23rem;
+  }
+}
