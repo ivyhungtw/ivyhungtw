@@ -5,6 +5,8 @@ $color-primary-dark: darken($color-primary-light, 20);
 
 $color-blue-1: #033d68;
 $color-blue-2: darken($color-blue-1, 10);
+$color-blue-light-1: lighten($color-blue-1, 70);
+$color-blue-light-2: lighten($color-blue-1, 50);
 
 $color-secondary-light: #fcd5ce;
 $color-secondary-dark: #ffb5a7;
