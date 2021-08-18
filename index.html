@@ -11,9 +11,8 @@
 
     <link rel="stylesheet" href="css/icon-font.css" />
     <link rel="stylesheet" href="css/style.css" />
-    <!-- <link rel="shortcut icon" type="image/png" href="img/favicon.png" /> -->
 
-    <title>Natours | Exciting tours for adventurous people</title>
+    <title>Ivy Hung</title>
   </head>
   <body>
     <!-- header block -->
@@ -34,7 +33,9 @@
         </h1>
 
         <!-- btn block -->
-        <a href="#" class="btn btn--white btn--animated">View my projects</a>
+        <a href="#projects" class="btn btn--white btn--animated"
+          >View my projects</a
+        >
       </div>
     </header>
 
@@ -63,7 +64,7 @@
               before, and I realized that I prefer building a product to
               marketing it. That’s why I become a web developer.
             </p>
-            <a href="#" class="btn-text">Learn more &rarr;</a>
+            <a href="#footer" class="btn-text">Contact Me &rarr;</a>
           </div>
           <!-- images -->
           <div class="col-1-of-2">
@@ -127,7 +128,7 @@
         </div>
       </section>
 
-      <section class="section-projects">
+      <section class="section-projects" id="projects">
         <div class="u-center-text u-margin-bottom-big">
           <h2 class="heading-secondary">My Projects</h2>
         </div>
@@ -163,7 +164,12 @@
                     <li>RESTful API</li>
                     <li>WebSocket</li>
                   </ul>
-                  <a href="#" class="btn btn--white">Details</a>
+                  <a
+                    href="https://github.com/ivyhungtw/twitter-express-vue"
+                    target="_blank"
+                    class="btn btn--white"
+                    >Details</a
+                  >
                 </div>
               </div>
             </div>
@@ -197,7 +203,12 @@
                     <li>Redis</li>
                     <li>RWD</li>
                   </ul>
-                  <a href="#" class="btn btn--white">Details</a>
+                  <a
+                    href="https://github.com/ivyhungtw/expense-tracker"
+                    target="_blank"
+                    class="btn btn--white"
+                    >Details</a
+                  >
                 </div>
               </div>
             </div>
@@ -231,7 +242,12 @@
                     <li>Express.js</li>
                     <li>MySQL</li>
                   </ul>
-                  <a href="#" class="btn btn--white">Details</a>
+                  <a
+                    href="https://github.com/ivyhungtw/restaurant-forum-express-vue"
+                    target="_blank"
+                    class="btn btn--white"
+                    >Details</a
+                  >
                 </div>
               </div>
             </div>
@@ -239,5 +255,57 @@
         </div>
       </section>
     </main>
+
+    <footer class="footer" id="footer">
+      <div class="footer__logo-box">
+        <img src="img/logo-white.png" alt="Logo" class="footer__logo" />
+      </div>
+      <ul class="footer__list">
+        <li class="footer__item">
+          <a
+            href="https://github.com/ivyhungtw"
+            target="_blank"
+            class="footer__link"
+          >
+            <svg class="github__icon">
+              <use xlink:href="img/sprite.svg#icon-github"></use>
+            </svg>
+          </a>
+        </li>
+        <li class="footer__item">
+          <a
+            href="https://www.linkedin.com/in/ivyhung/"
+            target="_blank"
+            class="footer__link"
+          >
+            <svg class="linkedin__icon">
+              <use xlink:href="img/sprite.svg#icon-linkedin"></use>
+            </svg>
+          </a>
+        </li>
+        <li class="footer__item">
+          <a
+            href="https://ivyhungtw.medium.com/"
+            target="_blank"
+            class="footer__link"
+          >
+            <svg class="medium__icon">
+              <use xlink:href="img/sprite.svg#icon-medium"></use>
+            </svg>
+          </a>
+        </li>
+        <li class="footer__item">
+          <a
+            href="mailto:ivyhung94@gmail.com"
+            target="_blank"
+            class="footer__link"
+          >
+            <svg class="medium__icon">
+              <use xlink:href="img/sprite.svg#icon-envelope"></use>
+            </svg>
+          </a>
+        </li>
+      </ul>
+    </footer>
   </body>
 </html>
