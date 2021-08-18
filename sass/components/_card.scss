@@ -131,6 +131,18 @@
     transform: translate(-50%, -50%);
   }
 
+  &__tech {
+    background-color: $color-white;
+    padding: 3rem;
+    border-radius: 3px;
+    box-shadow: 0 1.5rem 4rem rgba($color-black, 0.15);
+    transition: all 0.2s;
+
+    &:hover {
+      transform: translateY(-1rem) scale(1.1);
+    }
+  }
+
   &__tech-list {
     list-style: none;
     width: 85%;
