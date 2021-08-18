@@ -1,12 +1,12 @@
 ### Hello world 👋
 
+Feel free to check out my main page for more info: [**Ivy Hung**](https://ivyhungtw.github.io/ivyhungtw/)
+
 Here's a little bit about myself and why I decided to change my career.
 
 I learned programming to enhance my digital marketing skills at first, hoping to find more efficient ways to perform day-to-day tasks. However, the deeper I dive into the world of web development, the more attractive it seems to be. 
 
 When working on the [Simple Twitter project](https://github.com/ivyhungtw/simple-twitter-api), I stayed in front of the computer for over 12 hours a day without getting tired or bored. After finishing the project, I felt satisfied like never before, and I realized that I prefer building a product to marketing it. That’s why I become a web developer.
-
-Feel free to check my main page for more info: [**Ivy Hung**](https://ivyhungtw.github.io/ivyhungtw/)
 
 #### 🔭 I’m currently working on:
 
